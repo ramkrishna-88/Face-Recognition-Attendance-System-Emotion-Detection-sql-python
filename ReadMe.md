@@ -1,6 +1,12 @@
 # 🎥 Face Recognition Attendance System with Emotion Detection
 
-A Python-based **Face Recognition Attendance System** with **Emotion Detection** using OpenCV, DeepFace, and Tkinter GUI.  
+A Python-based **Face Recognition Attendance System** with **Emotion Detection** using 
+
+- **Python**
+- **OpenCV**
+- **DeepFace**
+- **Tkinter GUI**
+  
 This project allows capturing face images, training a recognizer, marking attendance using face recognition, checking attendance by UID, and performing real-time emotion detection.
 
 ---
@@ -105,5 +111,5 @@ Step 5: Emotion Detection
 ## Author
 
 Ram Krishna
-Email: ramkrishna000888@gmail.com
-Linkeddin: https://www.linkedin.com/in/ramkrishna000/
+- Email: ramkrishna000888@gmail.com
+- Linkeddin: https://www.linkedin.com/in/ramkrishna000/
